@@ -1,16 +1,8 @@
-fIRST FILE 11
+fIRST FILE 21
 fIRST FILE 22
 
 Edited the file by first developer
-<<<<<<< HEAD
 Edited the file by second developer
 Edited 3rd change by second developer
-
+Git first developer add changes
 Git first developer changes
-||||||| 7eb8488
-Edited the file by second developer
-=======
-Edited the file by second developer
-
-Edited 3rd change by second developer
->>>>>>> 6f80b0a66e4be429448fddfd01a452c5b2464170
